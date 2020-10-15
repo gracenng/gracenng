@@ -17,4 +17,4 @@
     > Taking care of my mini indoor jungle 🌿
     
     
-   <img src= "https://media.giphy.com/media/3oz8y07ua4tO49cr3G/giphy.gif" width="40" height="40" />" />
+   <img src= "https://media.giphy.com/media/3oz8y07ua4tO49cr3G/giphy.gif"  />
