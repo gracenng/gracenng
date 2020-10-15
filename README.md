@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Grace 👩
+### Hello World 👋 I'm Grace 👩
 
   🌱 I'm a 2nd year Computer Engineering student at the UWaterloo.
   
@@ -15,5 +15,6 @@
     > Getting my black belt in Taekwondo 🥋 (I'm chopping bricks!!)
     
     > Taking care of my mini indoor jungle 🌿
+    
     
     <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
