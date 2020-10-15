@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Grace
 
- 🟡 I'm a 2nd year Computer Engineering student at the UWaterloo.
- 🟡 I'm looking for internships opportunities in ### Summer 2021
+  🟡 I'm a 2nd year Computer Engineering student at the UWaterloo.
+  🟡 I'm looking for internships opportunities in ### Summer 2021
 
 <!--
 **gracenng/gracenng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
