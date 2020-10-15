@@ -5,6 +5,7 @@
   🟡 I'm looking for Summer 2021 internships opportunities in cyber-security, backendo or mobile 👩🏻‍💻
   
   🔭 Currently working on:
+  
     > Creating React Native app for a start up
 
 <!--
