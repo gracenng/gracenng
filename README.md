@@ -6,7 +6,11 @@
   
   🔭 Currently working on:
   
-    > Creating React Native app for a start up
+    > Creating mobile app for a start up using React native and ✨ Expo
+    
+    > Getting my black belt in Taekwondo 🥋 (as much as I'm scared to chop bricks)
+    
+    > Contributing to open source for the first time!
 
 <!--
 **gracenng/gracenng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
