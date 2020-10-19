@@ -1,8 +1,8 @@
-### Hello World 👋 I'm Grace 👩
+### Hello World 👋 I'm Grace 👩🏻‍💻
 
   🌱 I'm a 2nd year Computer Engineering student at the UWaterloo.
   
-  🌱 I'm looking for Summer 2021 internships opportunities in cyber-security, backend or mobile 👩🏻‍💻
+  🌱 I'm looking for **Summer 2021 internship** in cyber-security, backend or mobile 
   
   🔭 Currently working on:
   
