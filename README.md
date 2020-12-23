@@ -6,9 +6,8 @@
   
   🔭 Currently working on:
   
-    > Creating mobile app for a start up using React native and ✨ Expo
+    > A website for Christmas pets with cloud-native infrastructure.
     
-    > Contributing to open source for the first time!
    
    🕶 Outside of tech, I am:
    
