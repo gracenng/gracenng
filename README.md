@@ -11,7 +11,7 @@
    
    🕶 Outside of tech, I am:
    
-    > Getting my black belt in Taekwondo 🥋 (I'm chopping bricks!!)
+    > Reading Agatha Christie
     
     > Taking care of my mini indoor jungle 🌿
     
