@@ -7,6 +7,7 @@
   🔭 Currently working on:
   
     > A website for Christmas pets with cloud-native infrastructure.
+    > Learning terraform! Infrastructure-as-code feels magical
     
    
    🕶 Outside of tech, I am:
