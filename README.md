@@ -6,13 +6,13 @@
   
   🔭 Currently working on:
   
-    > A website for Christmas pets with cloud-native infrastructure.
+    > Learning Assembly in ECE222. Hopefully I can board the reverse engineering train soon
     > Learning terraform! Infrastructure-as-code feels magical
     
    
    🕶 Outside of tech, I am:
    
-    > Reading Agatha Christie
+    > Reading Murakami's Kafka on the Shore
     
     > Taking care of my mini indoor jungle 🌿
     
