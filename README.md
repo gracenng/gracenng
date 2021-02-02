@@ -12,8 +12,7 @@
    
    🕶 Outside of tech, I am:
    
-    > Reading Murakami's Kafka on the Shore
-    
+    > Reading Murakami's Kafka on the Shore    
     > Taking care of my mini indoor jungle 🌿
     
     
