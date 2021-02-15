@@ -2,7 +2,7 @@
 
   🌱 I'm a 2nd year Computer Engineering student at the UWaterloo.
   
-  🌱 I'm looking for **Winter 2022 internship** ininfrastructure, backend or security 
+  🌱 I'm looking for **Winter 2022 internship** in infrastructure, backend or security 
   
   🔭 Currently working on:
   
