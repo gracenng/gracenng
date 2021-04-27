@@ -6,13 +6,13 @@
   
   🔭 Currently working on:
   
-    > Learning Assembly in ECE222. Hopefully I can board the reverse engineering train soon
-    > Learning terraform! Infrastructure-as-code feels magical
+    > The Release team at Kubernetes
+    > Organizing Waterloo's first womxn hackathon
     
    
    🕶 Outside of tech, I am:
    
-    > Reading Murakami's Kafka on the Shore    
+    > Listening to Modern Love podcast    
     > Taking care of my mini indoor jungle 🌿
     
     
