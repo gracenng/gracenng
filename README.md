@@ -6,7 +6,7 @@
   
   🔭 Currently working on:
   
-    > The Release team at Kubernetes
+    > Shadowing on the Release team @ Kubernetes
     > Organizing Waterloo's first womxn hackathon
     
    
