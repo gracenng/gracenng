@@ -1,6 +1,6 @@
 ### Hello World 👋 I'm Grace 👩🏻‍💻
 
-  🌱 I'm a 2nd year Computer Engineering student at the UWaterloo.
+  🌱 I'm a second year Computer Engineering student at the UWaterloo.
   
   🌱 I'm looking for **Winter 2022 internship** in infrastructure, backend or security 
   
