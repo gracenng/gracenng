@@ -14,7 +14,6 @@
    🕶 Outside of tech, I like:
    
     > Listening to Modern Love podcast
-    > Walking to my favourite tree, (Earl)[https://www.google.com/maps/@43.4779294,-80.5583027,3a,75y,328.22h,71.34t/data=!3m8!1e1!3m6!1sAF1QipNIhpdaZu7mIppptsoa7adwKw_eoS20NU6Y_CTO!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNIhpdaZu7mIppptsoa7adwKw_eoS20NU6Y_CTO%3Dw203-h100-k-no-pi0-ya354.89258-ro-0-fo100!7i8704!8i4352]
     > Taking care of my mini indoor jungle 🌿
     
     
