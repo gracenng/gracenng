@@ -8,7 +8,6 @@
   
     > Shadowing on the Release team @ Kubernetes 1.22
     > Organizing Waterloo's first womxn hackathon
-    > Learning Golang 🦦
     
    
    🕶 Outside of tech, I like:
