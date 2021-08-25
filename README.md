@@ -6,7 +6,7 @@
   
   🔭 Currently working on:
   
-    > Shadowing on the Release team @ Kubernetes 1.22
+    > Shadowing on the Release team @ Kubernetes 1.23
     > Organizing Waterloo's first womxn hackathon, TechNova
     
    
