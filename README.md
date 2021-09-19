@@ -12,7 +12,7 @@
    
    🕶 Outside of tech, I like:
    
-    > Listening to Modern Love podcast
+    > Listening to Revisionist History the podcast
     > Taking care of my mini indoor jungle 🌿
     
     
