@@ -1,19 +1,19 @@
 ### Hello World 👋 I'm Grace 👩🏻‍💻
 
-  🌱 I'm a second year Computer Engineering student at the UWaterloo.
+  🌱 I'm a third year Computer Engineering student at the UWaterloo.
   
   🌱 I'm looking for **Winter 2023 internship** in infrastructure, backend or security 
   
   🔭 Currently working on:
   
-    > Shadowing on the Release team @ Kubernetes 1.23
-    > Organizing Waterloo's first womxn hackathon, TechNova
+    > Leading the Enhancements team for Kubernetes 1.24 Release
+    > Sending V1's in bouldering 🧗‍♀️
     
    
-   🕶 Outside of tech, I like:
+   🕶 Previously:
    
-    > Listening to Revisionist History the podcast
-    > Taking care of my mini indoor jungle 🌿
-    
+    > Organized Waterloo's first womxn hackathon, TechNova
+    > Shadowed @ Kubernetes 1.22 and 1.23 release
+   
     
    <img src= "https://media.giphy.com/media/3oz8y07ua4tO49cr3G/giphy.gif" width="300" height="150"  />
