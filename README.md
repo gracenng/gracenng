@@ -2,10 +2,11 @@
 
   🌱 I'm a third year Computer Engineering student at the UWaterloo.
   
-  🌱 I'm looking for **Winter 2023 internship** in infrastructure, backend or security 
+  🌱 I'm interested in security, distributed infrastructure and political economics.
   
   🔭 Currently working on:
   
+    > Cultivating founders relationships at Envision 🍊
     > Leading the Enhancements team for Kubernetes 1.24 Release
     > Sending V1's in bouldering 🧗‍♀️
     
