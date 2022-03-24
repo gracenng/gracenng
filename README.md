@@ -1,4 +1,4 @@
-### Hello World 👋 I'm Grace 🎄
+### Hello World 👋 I'm Grace 🧃
 
   🌱 I'm a third year Computer Engineering student at the UWaterloo.
   
