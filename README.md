@@ -6,15 +6,15 @@
   
   🔭 Currently working on:
   
-    > Cultivating founders relationships at Envision 🍊
-    > Leading the Enhancements team for Kubernetes 1.24 Release
+    > Supporting underrepresented founders at Envision Accelerator 🍊
+    > Shadowing the Release Lead for Kubernetes 1.25 Release
     > Sending V1's in bouldering 🧗‍♀️
     
-   
+
    🕶 Previously:
    
     > Organized Waterloo's first womxn hackathon, TechNova
-    > Shadowed @ Kubernetes 1.22 and 1.23 release
+    > Enhancements Lead @ 1.24 Kubernetes release, shadowed @ 1.22 and 1.23 release
    
     
    <img src= "https://media.giphy.com/media/3oz8y07ua4tO49cr3G/giphy.gif" width="300" height="150"  />
