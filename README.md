@@ -1,6 +1,6 @@
 ### Hello World 👋 I'm Grace 🧃
 
-  🌱 I'm a third year Computer Engineering student at the UWaterloo.
+  🌱 I'm a third year Computer Engineering student at UWaterloo.
   
   🌱 I'm interested in security, distributed infrastructure and political economics.
   
