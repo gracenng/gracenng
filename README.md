@@ -6,13 +6,13 @@
   
   🔭 Currently working on:
   
-    > Supporting underrepresented founders at Envision Accelerator 🍊
+    > Finishing "the art of cyberwarfare"
     > Shadowing the Release Lead for Kubernetes 1.25 Release
     > Sending V2's (!!) in bouldering 🧗‍♀️
     
 
    🕶 Previously:
-   
+    > Supporting underrepresented founders at Envision Accelerator 🍊
     > Organized Waterloo's first womxn hackathon, TechNova
     > Various roles on the Kubernetes Release team since 1.22
    
