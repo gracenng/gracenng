@@ -8,13 +8,13 @@
   
     > Supporting underrepresented founders at Envision Accelerator 🍊
     > Shadowing the Release Lead for Kubernetes 1.25 Release
-    > Sending V1's in bouldering 🧗‍♀️
+    > Sending V2's (!!) in bouldering 🧗‍♀️
     
 
    🕶 Previously:
    
     > Organized Waterloo's first womxn hackathon, TechNova
-    > Enhancements Lead @ 1.24 Kubernetes release, shadowed @ 1.22 and 1.23 release
+    > Various roles on the Kubernetes Release team since 1.22
    
     
    <img src= "https://media.giphy.com/media/3oz8y07ua4tO49cr3G/giphy.gif" width="300" height="150"  />
