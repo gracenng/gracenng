@@ -11,7 +11,8 @@
     > Sending V2's (!!) in bouldering 🧗‍♀️
     
 
-   🕶 Previously:
+  🕶 Previously:
+  
     > Supporting underrepresented founders at Envision Accelerator 🍊
     > Organized Waterloo's first womxn hackathon, TechNova
     > Various roles on the Kubernetes Release team since 1.22
