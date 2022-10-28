@@ -7,7 +7,7 @@
   🔭 Currently working on:
   
     > Finishing "the art of cyberwarfare"
-    > Shadowing the Release Lead for Kubernetes 1.25 Release
+    > Shadowing the Release Lead for Kubernetes 1.26 Release
     > Sending V2's (!!) in bouldering 🧗‍♀️
     
 
