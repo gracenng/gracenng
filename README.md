@@ -1,8 +1,8 @@
 ### Hello World 👋 I'm Grace 🧃
 
-  🌱 I'm a fourth year Computer Engineering student at UWaterloo.
+  🌱 I'm a fourth year Computer Engineering student at UWaterloo. I'm interested in security, distributed infrastructure and political economics
   
-  🌱 I'm interested in security, distributed infrastructure and political economics.
+  🌱 I'm looking for New Grad roles starting June 2024 ✨
   
   🔭 Currently working on:
   
