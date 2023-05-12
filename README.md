@@ -1,15 +1,15 @@
 ### Hello World 👋 I'm Grace 🧃
 
-  🌱 I'm a third year Computer Engineering student at UWaterloo.
+  🌱 I'm a fourth year Computer Engineering student at UWaterloo.
   
   🌱 I'm interested in security, distributed infrastructure and political economics.
   
   🔭 Currently working on:
   
-    > Finishing "the art of cyberwarfare"
-    > Shadowing the CI Signal for Kubernetes 1.27 Release
-    > Sending V2's (!!) in bouldering 🧗‍♀️
-    
+    > Leading Kubernetes 1.28 Release Team
+    > Reviving UW Cybersecurity Club
+    > Sending V2's in bouldering 🧗‍♀️
+   
 
   🕶 Previously:
   
