@@ -2,7 +2,7 @@
 
   🌱 I'm a fourth year Computer Engineering student at UWaterloo. I'm interested in security, distributed infrastructure and political economics. I'm active in Kubernetes open-source, specifically in the release process and the security self-assessment subproject.
   
-  🌱 I'm looking for New Grad roles starting June 2024 ✨
+  🌱 I'm looking for New Grad roles starting September 2024 ✨
   
   🔭 Currently working on:
   
