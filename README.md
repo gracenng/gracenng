@@ -1,6 +1,6 @@
 ### Hello World 👋 I'm Grace 🧃
 
-  🌱 I'm a fourth year Computer Engineering student at UWaterloo. I'm interested in security, distributed infrastructure and political economics. I'm active in Kubernetes open-source, specifically in the release process and the security self-assessment subproject.
+  🌱 I studied Computer Engineering at UWaterloo. I'm interested in security, distributed infrastructure and political economics. I'm active in Kubernetes open-source, specifically in the release process and the security self-assessment subproject.
   
   🔭 Currently working on:
   
