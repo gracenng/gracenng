@@ -4,14 +4,14 @@
   
   🔭 Currently working on:
   
-    > Improving the Release Team @ Kubernetes ✨
+    > Supply chain security @ Kubernetes ✨
     > Reading 25 books in 2024
     > Sending V4's in bouldering 🧗‍♀️
    
 
   🕶 Previously:
     
-    > Advised Kubernetes 1.30 Release Team
+    > K8s Release Team advisor
     > Led Kubernetes 1.28 Release Team
     > Revived UW Cybersecurity Club
     > Supporting underrepresented founders at Envision Accelerator 🍊
